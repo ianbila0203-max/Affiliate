@@ -10,7 +10,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Promo Produk Pilihan">
 <meta property="og:description" content="Cek detail dan harga produk di Shopee.">
-<meta property="og:image" content="GANTI_DENGAN_URL_GAMBAR">
+<meta property="og:image" content="https://github.com/ianbila0203-max/Affiliate/blob/314e73b0af6971fb367f3cdd56081b3d3b222316/FB_IMG_1792602773506.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
 <style>
@@ -38,7 +38,7 @@ a {
 <h2>Promo Produk Pilihan</h2>
 <img src="promo.jpg" alt="Gambar promosi produk">
 <p>Cek harga dan ketersediaan produk.</p>
-<a href="GANTI_LINK_AFFILIATE_SHOPEE">
+<a href="https://s.shopee.co.id/2BFpZTFZY3">
 Lihat Produk di Shopee
 </a>
 </body>
