@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Promo Shopee</title>
+<meta name="description" content="Lihat produk dan promo menarik di Shopee.">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Promo Produk Pilihan">
+<meta property="og:description" content="Cek detail dan harga produk di Shopee.">
+<meta property="og:image" content="GANTI_DENGAN_URL_GAMBAR">
+<meta name="twitter:card" content="summary_large_image">
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 25px auto;
+  padding: 16px;
+  text-align: center;
+}
+img { width: 100%; border-radius: 12px; }
+a {
+  display: block;
+  padding: 15px;
+  margin-top: 18px;
+  background: #ee4d2d;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<h2>Promo Produk Pilihan</h2>
+<img src="promo.jpg" alt="Gambar promosi produk">
+<p>Cek harga dan ketersediaan produk.</p>
+<a href="GANTI_LINK_AFFILIATE_SHOPEE">
+Lihat Produk di Shopee
+</a>
+</body>
+</html>
